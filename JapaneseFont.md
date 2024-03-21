@@ -1,7 +1,7 @@
 Are you using a Japanese font? 
 ===
 
-<img src="images/JPvsCH_font.png" alt="Your Image" width="200"/>
+<img src="images/JPvsCH_font.png" width="200"/>
 
 
 How does 直 display for you?
