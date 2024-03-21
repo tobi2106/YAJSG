@@ -36,9 +36,23 @@ Click on the `⚙` next to a deck
 - scroll to the bottom and enable FSRS
 - apply the following options from the pictures
 
-<img src="images/deck_options_1.png" width="300"/> <br>
-<img src="images/deck_options_2.png" width="300"/> <br>
-<img src="images/deck_options_3.png" width="300"/> <br>
+<img src="images/deck_options_1.png" width="350"/> <br>
+<img src="images/deck_options_2.png" width="350"/> <br>
+<img src="images/deck_options_3.png" width="350"/> <br>
+
+#### Change settings to your liking
+
+If you are writing Kanji down, while reviewing, <br>
+you sould adjust some parameteres. <br>
+This depents on how long you need to write down the kanji <br> 
+and than reviewing it: <br>
+- `Learning steps`: eg. 2m 5m 1h
+- `Maximum answer seconds` eg. 120
+
+You may also change the display order:
+- `New/review order`
+- `Interday learning/review order`
+
 
 </details>
 <details>
@@ -80,3 +94,5 @@ Optional: <br>
 
 
 </details>
+
+After this, you can download some [Anki decks](xxx)
