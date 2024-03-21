@@ -1,1 +1,1 @@
-[Are you using a Japanese font?](UsingJapaneseFont.md)
+[Are you using a Japanese font?](JapaneseFont.md)
