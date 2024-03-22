@@ -52,3 +52,6 @@ In Yomitan, go to: <br>
 
 Now you can hold down shift and hover over a word and a popup dictionary appears. <br>
 You can also click on the audio button to listen to a pronunciation of the selected word if one exists.
+
+
+After yomitan is running, you can check out how to [create cards with yomitan](XXX).

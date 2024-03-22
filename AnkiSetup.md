@@ -40,7 +40,6 @@ Go to: <br>
 - `Preferences`
 - `Review`
 - Delete `Answer keys` for `Hard` and `Easy`
-- Make sure `Paste clipboard images as PNG` is **not** checked
 
 Click on the `⚙` next to a deck
 - click on `option`
@@ -68,7 +67,21 @@ You may also change the display order:
 <details>
 <summary>Anki Add-ons</summary>
 
+#### Installing Add-ons
+
+Go to:
+- `Tools`
+- `Add-ons`
+- `Get Add-ons...`
+- Paste the number of the Add-on
+
+After installing the Add-ons, you need to restart Anki. <br>
+The same goes for changing settings for Add-ons. <br>
+You need to restart Anki for settings to take effect.
+
+
 #### Why do I need Add-ons?
+
 If you want to mine vocabularies, it takes a good amount of time to create a new card. <br>
 You would need to configure a note type for Anki, defining fields, and the font and back template, and the style for the note type. <br>
 After that, you can add cards to your deck, but you need to do this manually. <br>
