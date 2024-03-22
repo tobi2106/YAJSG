@@ -6,6 +6,8 @@ For our group meeting, I create my own decks: <br>
 - `みんあの日本語`
 - `げんき` (WIP.)
 
+You can download the decks from my [Dropbox](https://www.dropbox.com/scl/fo/msp3tcyih8goyq5cav2nq/h?rlkey=93vakg99ybi3o4apa7gkw99ds&dl=0).
+
 I also intend to create decks for special lessons, where we want to read manga, short stories, translate lyrics, etc. <br>
 But at the start, it is recommended to grind the thousand most common words in your target language and study a fair bit of grammar. <br>
 
@@ -15,6 +17,9 @@ The most important thing is that you have fun learning the language - the langua
 But at the same time, you should learn consistently, otherwise, you forget a lot of what you have already learned.
 
 #### Recommended decks:
+**Note:**
+Use Kaishi's deck **or** the Core 2k deck. <br>
+
 [Kaishi's](https://github.com/donkuri/Kaishi) deck is quite new and most surely the best deck to start your Japanese language journey. <br>
 It consists of the most basic and used 1500 words. This is based and sorted by frequency (see [Readme](https://github.com/donkuri/Kaishi?tab=readme-ov-file#pitch-accent)). <br>
 I highly recommend enabling the [pitch accent](https://github.com/donkuri/Kaishi?tab=readme-ov-file#pitch-accent) on the cards! <br>
