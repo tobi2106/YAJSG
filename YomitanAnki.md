@@ -18,7 +18,7 @@ Import the Note Type to Anki: <br>
 - `Import...` the `jpmn_example_cards.apkg`
 
 Download the custom fonts: <br>
-- Download the 4 `.otf` files from the `media folder`
+- Download the 4 `.otf` files from the [media folder](https://github.com/arbyste/jp-mining-note/tree/master/media)
 - Click on the `.otf` file
 - Click on the download button at the top right
 
