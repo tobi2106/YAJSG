@@ -1,3 +1,6 @@
+Yet another japanese setup guide
+===
+
 Just another guide to set up your Japanese learning environment. <br>
 There are a ton of guides on the internet for the best setups. <br>
 For this guide, I used 7 guides in total. <br>
