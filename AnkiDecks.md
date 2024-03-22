@@ -1,7 +1,7 @@
 Anki Decks
 ===
 
-For our group meeting, I create my own word cards for: <br>
+For our group meeting, I create my own decks: <br>
 - `Japanisch Schritt für Schritt`
 - `みんあの日本語`
 - `げんき` (WIP.)

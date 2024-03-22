@@ -76,7 +76,7 @@ With add-ons, you can automate the process of adding a new card to Anki. <br>
 [See](XXX)
 
 **Note:** <br>
-Please read the description for [AJT Mortician](https://ankiweb.net/shared/info/1255924302) on the add-on page. <br>
+If you plan to use AJT Mortician, please read the description for [AJT Mortician](https://ankiweb.net/shared/info/1255924302) on the add-on page. <br>
 You don't need to install the [Local Audio Server for Yomichan](https://ankiweb.net/shared/info/1045800357). 
 It only speeds up the process of getting the audio for a word. <br>
 See more under [mining](XXX):
