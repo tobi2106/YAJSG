@@ -25,6 +25,22 @@ For Chrome:
 For Yomitan to work, you must first install some dictionaries. <br>
 There are a **ton** of dictionaries, but for the start, download the dictionaries from my [Dropbox](https://www.dropbox.com/scl/fo/pssuudouaffzeqlzvf95k/h?rlkey=ms8jidg4v8n75rq3muhep5x70&dl=0). 
 
+After downloading, only extract the `dictionary.zip`. 
+
+Installation:<br>
+- Go to the Yomitan settings
+- Go to Dictionaries
+- Click on `Config installed and enabled dictionaries`
+- Click on `Import`
+- Select all zips from the `dictionary.zip`
+
+This import may take a while. <br>
+Feel free to continue with the [Anki download and Setup](AnkiSetup.md).
+
+If you want to download more dictionaries, feel free to check out <br>
+[MarvNC's collection](https://github.com/MarvNC/yomichan-dictionaries) on GitHub or <br>
+[Shoui's collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) on Google Drive.
+
 There are different kinds of dictionaries for:<br>
 - Japanese - English (J-E) 
 - Japanese - Japanese (J-J)
@@ -33,10 +49,6 @@ There are different kinds of dictionaries for:<br>
 - Kanji 
 - Pitch accent
 - Frequency
-
-If you want to download more dictionaries, feel free to check out <br>
-[MarvNC's collection](https://github.com/MarvNC/yomichan-dictionaries) on GitHub or <br>
-[Shoui's collection](https://drive.google.com/drive/folders/1tTdLppnqMfVC5otPlX_cs4ixlIgjv_lH) on Google Drive.
 
 #### Configure Yomitan
 

@@ -129,15 +129,19 @@ it should look like this:
 <details>
 <summary>Edit AJT Japanese Config</summary>
 
-Copy the AJT Japanese config from my [Dropbox](https://www.dropbox.com/scl/fi/eyuhq0hgvq8ceh7hbxpov/AJT_Japanese_Config.json?rlkey=zw6eyhob50fz4122pj5h7m53n&dl=0)
+**Note:**
+Unfortunately, we need to override the newest version of `AJT Japanese` because we can't change the config file easily anymore.
+If you don't want to do this, you can download my [config file](https://www.dropbox.com/scl/fi/eyuhq0hgvq8ceh7hbxpov/AJT_Japanese_Config.json?rlkey=zw6eyhob50fz4122pj5h7m53n&dl=0) and configure the `AJT Japanese` options manually (**not** recommended): <br>
+see: [JP Mining Note Anki config-changes](https://xelieu.github.io/jp-lazy-guide/)
 
-Go to: <br>
-- `Tools`
-- `Add-ons`
-- select `AJT Japanese`
-- click on `config`
-- past the config from the dropbox into it
-- restart anki that the changes take effect
+Download the AJT Japanese Add-on from my [Dropbox](https://www.dropbox.com/scl/fi/sj5tlvyf6qxwq6b8kwilx/1344485230.zip?rlkey=vf9h90537o8j0kgqe9nwucyp8&dl=0)
+
+Installation:<br>
+- Press `WinKey` + `r`
+- Enter `%Appdata%`
+- Navigate to `Anki2\addons21`
+- Paste the `AJT Japanese` Add-on into this folder
+- Restart Anki 
 
 </details>
 <details>

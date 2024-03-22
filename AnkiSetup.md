@@ -40,6 +40,7 @@ Go to: <br>
 - `Preferences`
 - `Review`
 - Delete `Answer keys` for `Hard` and `Easy`
+- Set `Learn ahead limit` to `60` mins 
 
 Click on the `⚙` next to a deck
 - click on `option`
@@ -51,6 +52,10 @@ Click on the `⚙` next to a deck
 <img src="images/deck_options_3.png" width="350"/> <br>
 
 #### Change settings to your liking
+
+**Note:**
+Your `Learn ahead limit`: The learn ahead limit should be larger than your largest step. <br>
+You could simply set it to 900 minutes.
 
 If you are writing Kanji down while reviewing, <br>
 you should adjust some parameters. <br>
