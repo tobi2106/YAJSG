@@ -10,21 +10,21 @@ This is really important for Anki, Yomitan, your browser etc. <br>
 [Guide: Are you using the right font?](https://learnjapanese.moe/guide/#are-you-using-the-right-font)
 
 <details>
-<summary>Installation for windows</summary>
+<summary>Installation for Windows</summary>
 
 - Press `WinKey`
-- search `Power Shell`
-- right click `open as administrator`
-- enter: `
+- Search `Power Shell`
+- Right-click `Open as administrator`
+- Enter: `
 Get-WindowsCapability -Online -Name Language.Fonts.Jpan~~~und-JPAN* | Add-WindowsCapability -Online
 `
 </details>
 <details>
 <summary>Apply font for Chrome</summary>
 
-- open Chrome
-- open the menue `⋮`
-- Setting
+- Open Chrome
+- Open the menu `⋮`
+- Settings
 - Appearance
 - Customize fonts
 
@@ -34,28 +34,28 @@ Select the following fonts:
 - Sans-serif font: `Meiryo`  
 - Monospace: `MS Gothic`
 
-[source](https://learnjapanese.moe/font/)
+[Source](https://learnjapanese.moe/font/)
 </details>
 <details>
 <summary>Apply font for Anki</summary>
 
 #### Reviewing
-Check if `直` gets diplayed correctly on the cards while reviewing:
+Check if `直` gets displayed correctly on the cards while reviewing:
 - Click on browse
-- Select / create a creade with `直`
+- Select / create a card with `直`
 
-If it gets not diplayed correctly, the font is installt incorrectly or not detected. <br>
-Please ask for help or see: [TheMoeWay Font Anki](https://learnjapanese.moe/font/#anki). <br>
+If it does not display correctly, the font is installed incorrectly or not detected. <br>
+Please ask for help or see: [The Moe Way Font Anki](https://learnjapanese.moe/font/#anki). <br>
 Maybe you need to force it.
 
 #### Edit fields 
-Check if `直` gets diplayed correctly on the edit fields in the note type.
+Check if `直` gets displayed correctly in the edit fields in the note type.
 If not, you can change the font for every edit field. <br>
-This is not really nessesary but still good to see the kanji displayed correctly on the edit fields. 
-- click on `Fields` 
-- select a field, where japanese text is supposed to be displayed
-- change `Editing Font` to a japanese font:
-- e.g. `Noto Sans JP`
+This is not really necessary but still good to see the kanji displayed correctly in the edit fields. 
+- Click on `Fields` 
+- Select a field where Japanese text is supposed to be displayed
+- Change `Editing Font` to a Japanese font:
+- e.g., `Noto Sans JP`
 
 </details>
 <details>
@@ -63,6 +63,6 @@ This is not really nessesary but still good to see the kanji displayed correctly
 
 #### Noto Sans JP
 
-If you like you can use the [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans+JP) font.
+If you like, you can use the [Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP) font.
 
 </details>
