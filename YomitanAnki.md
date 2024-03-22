@@ -5,9 +5,27 @@ I used the setup guide from [JP Mining Note](https://arbyste.github.io/jp-mining
 
 We are using the `jp mining note` or more commently known as `Anime cards`.
 
+<details>
+<summary>JP Mining Note Type</summary>
+
 ### Installing
 
-The same steps are also found in the guide. <br>
+The same steps are also found in the [guide](https://arbyste.github.io/jp-mining-note/setup/). <br>
+
+#### Automatic way
+If you have python installed and basic git and command line knowledge, <br> you can use the automatic method of installing the note type: <br>
+``` 
+git clone "https://github.com/arbyste/jp-mining-note.git"
+cd jp-mining-note
+
+:: Ensure you have Anki open, and with anki-connect running
+:: Also ensure that you have python 3.10+ installed.
+:: It *MAY* work with lower versions of python, but I make no such guarantee. ;)
+python tools\install.py
+```
+
+
+#### Manual way
 Download the Note Type: <br>
 - Go to the [release page](https://github.com/arbyste/jp-mining-note/releases)
 - Download `{version}-jpmn_example_cards.apkg`
@@ -59,3 +77,89 @@ View one of the cards an mkare sure, the card looks similar to the one in the pi
 
 Please check how to use the jp mining note and how you can change the settings to suite your preferences. <br>
 For that whatch the Videos under `Gui`, `Fields` and `Card Creation` form [JP Mining Note Homepage](https://arbyste.github.io/jp-mining-note/).
+
+</details>
+<details>
+<summary>CSS Injector</summary>
+
+For reference, see [CSS Injector by JP Mining Note](https://arbyste.github.io/jp-mining-note/setupanki/#css-injector).
+
+[CSS Injector](https://ankiweb.net/shared/info/181103283) Number: `181103283`
+
+Delete the old `field.css` and `editor.css`: <br>
+- Press `WinKey` + `r`
+- Enter `%Appdata%`
+- Navigate to `Anki2\addons21\181103283\user_files`
+- Delete `field.css` and `editor.css`
+
+Or simply open a command prompt and:
+```
+:: be sure to change USERNAME to your computer username!
+
+del "C:\Users\USERNAME\AppData\Roaming\Anki2\addons21\181103283\user_files\field.css"
+del "C:\Users\USERNAME\AppData\Roaming\Anki2\addons21\181103283\user_files\editor.css"
+```
+
+Creating a Symbolic link to the new `field.css` and `editor.css`: <br>
+**Make sure to change**: <br>
+`USERNAME` to your computer username <br>
+`PROFILENAME` to your Anki profile name <br>
+
+Open cmd: <br>
+- Press `WinKey`
+- Enter `cmd`
+
+After that **change the `USERNAME` and `PROFILENAME`!** <br>
+and enter the following command: <br>
+```
+:: be sure to change USERNAME to your computer username and PROFILENAME to your Anki profile.
+:: There are **two** USERNAME's to replace, and **one** PROFILENAME to replace
+:: in the commands below.
+:: Make sure to replace all the fields!
+
+mklink "C:\Users\USERNAME\AppData\Roaming\Anki2\addons21\181103283\user_files\field.css" "C:\Users\USERNAME\AppData\Roaming\Anki2\PROFILENAME\collection.media\_field.css"
+mklink "C:\Users\USERNAME\AppData\Roaming\Anki2\addons21\181103283\user_files\editor.css" "C:\Users\USERNAME\AppData\Roaming\Anki2\PROFILENAME\collection.media\_editor.css"
+```
+
+After that, restart Anki and check if your installation was successful; <br>
+it should look like this:
+<img src="images/CSS_Injector.png" width="350"/>
+
+</details>
+<details>
+<summary>Edit AJT Japanese Config</summary>
+
+Copy the AJT Japanese config from my [Dropbox](https://www.dropbox.com/scl/fi/eyuhq0hgvq8ceh7hbxpov/AJT_Japanese_Config.json?rlkey=zw6eyhob50fz4122pj5h7m53n&dl=0)
+
+Go to: <br>
+- `Tools`
+- `Add-ons`
+- select `AJT Japanese`
+- click on `config`
+- past the config from the dropbox into it
+- restart anki that the changes take effect
+
+</details>
+<details>
+<summary>Yomitan Anki settings</summary>
+
+For reference, see [CSS Injector by JP Mining Note](https://arbyste.github.io/jp-mining-note/setupyomichan/#yomichan-fields).
+
+Go to Anki and create a new deck for mining:
+- Press `Add`
+- Select the `Japanese Mining Note`
+- Click on `Deck`
+- Click on `Add`
+- Create a new deck, e.g., "Mining"
+
+For your information, if you want to create subdecks, you can easily do so by putting `::` in the name. For example, if you want to have a subdeck named "YouTube", you would add a deck named `Mining::YouTube`.
+
+Go to Yomitan Setting: <br>
+- Navigate to the `Anki` section
+- Select `Anki card format...`
+- Set `Deck` to your newly created Anki deck
+- Set `Model` as `JP Mining Note`
+
+For more settings, see how the [JP Mining Template works](https://arbyste.github.io/jp-mining-note/).
+
+</details>
