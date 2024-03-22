@@ -118,4 +118,4 @@ Optional: <br>
 
 </details>
 
-After this, you can download some [Anki decks](xxx).
+After this, you can download some [Anki decks](AnkiDecks.md).
