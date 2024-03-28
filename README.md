@@ -3,10 +3,11 @@ Yet another japanese setup guide
 
 Just another guide to set up your Japanese learning environment. <br>
 There are a ton of guides on the internet for the best setups. <br>
-For this guide, I used 7 guides in total. <br>
+For this guide, I used [7 guides in total](). <br>
 
-For this guide, I wrote down how I set up Anki, Yomitan, and all immersion methods you could possibly use. <br>
-This includes: <br>
+Within this guide, I'll detail my approach to setting up essential tools such as Anki, 
+Yomitan, and various immersion resources. <br>
+These resources encompass: <br>
 - Websites
 - YouTube
 - Netflix
