@@ -1,0 +1,122 @@
+# Template is from https://github.com/friedrich-de/AnimecardsWebsite
+# And from https://github.com/arbyste/jp-mining-note/
+
+site_name: YAJSG
+site_description: Guide for setting up a japanese learning environment
+
+repo_url: https://github.com/tobi2106/YAJSG
+repo_name: YAJSG
+edit_uri: edit/main/docs/
+site_url: https://tobi2106.github.io/YAJSG/
+
+theme:
+  name: material
+  custom_dir: docs\overrides
+
+  font:
+    code: Roboto
+
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+
+  features:
+    # single page application
+    - navigation.instant
+
+    # table of contents automatically scrolls
+    - toc.follow
+
+    # hides the header when you scroll down long enough
+    - header.autohide
+
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+
+    - content.code.annotate
+
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - mkdocs-video:
+      css_style:
+        width: "100%"
+        height: "100%"
+      is_video: True
+      video_autoplay: False
+  - macros
+  - git-revision-date-localized:
+      type: date
+
+nav:
+  - Home:
+      - Home: "index.md"
+      - Posts: "_posts/2024-03-29-apples.md"
+      - Lesson Texts: "lesson_texts/第1課　「食べますか」.md"
+      - Setup: "setup/JapaneseFont.md"
+  - Lesson Texts:
+      - Lesson 1: "lesson_texts/第1課　「食べますか」.md"
+      - Lesson 2: "lesson_texts/第2課　「何を買いましたか」.md"
+      - Lesson 3: "lesson_texts/第3課　「昨日テレビを見ましたか」.md"
+      - Lesson 4: "lesson_texts/第4課　「これは何ですか」.md"
+      - Lesson 5: "lesson_texts/第5課　「私の時計です」.md"
+  - Setup:
+      - Japanese Font: "setup/JapaneseFont.md"
+      - Yomitan:
+          - Yomitan Setup: "setup/Yomitan.md"
+      - Anki:
+          - Anki Setup: "setup/AnkiSetup.md"
+          - Anki Decks: "setup/AnkiDecks.md"
+      - Animecards:
+          Connect Yomitan: "setup/YomitanAnki.md"
+
+# extra_css:
+#   - docs/stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+      baselevel: 2
+      toc_depth: 3
+
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+  - admonition
+  - pymdownx.details
+
+  - md_in_html
+
+  - footnotes
+
+  - pymdownx.tasklist
+
+  # allows strikethrough
+  - pymdownx.tilde
+
+  # content tabs (left sidebar)
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
