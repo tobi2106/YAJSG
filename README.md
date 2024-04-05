@@ -1,4 +1,4 @@
-Yet another japanese setup guide
+Yet another japanese setup guide OLD Yekyll version
 ===
 
 Just another guide to set up your Japanese learning environment. <br>
