@@ -1,0 +1,39 @@
+div.lection {
+    font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", sans-serif;
+    letter-spacing: 1px;
+    line-height: 2.3;
+}
+
+.lection div.medium {
+    font-size: 17px;
+}
+
+.lection div.medium span.ruby span.rt {
+    font-size: 11px;
+}
+
+.lection span.ruby {
+    margin-bottom: 0.55em;
+    display: inline-table;
+    position: relative;
+    vertical-align: bottom;
+}
+
+.lection span.ruby span.rb {
+    display: table-row;
+    position: relative;
+    line-height: 1.2;
+}
+
+.lection span.ruby span.rt {
+    display: table-header-group;
+    line-height: 1.8;
+    color: #999;
+    white-space: nowrap;
+    text-align: center;
+    letter-spacing: -0.001em;
+}
+
+rt {
+    color: #999;
+}
