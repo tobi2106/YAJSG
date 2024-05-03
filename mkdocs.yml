@@ -64,10 +64,9 @@ plugins:
 
 nav:
   - Home:
-      - Home: "index.md"
-      - Posts: "_posts/2024-03-29-apples.md"
-      - Lesson Texts: "lesson_texts/第1課　「食べますか」.md"
+      - Yet Another Japanese Setup Guide: "index.md"
       - Setup: "setup/JapaneseFont.md"
+      - Lesson Texts: "lesson_texts/第1課　「食べますか」.md"
   - Lesson Texts:
       - Lesson 1: "lesson_texts/第1課　「食べますか」.md"
       - Lesson 2: "lesson_texts/第2課　「何を買いましたか」.md"
@@ -82,10 +81,10 @@ nav:
           - Anki Setup: "setup/AnkiSetup.md"
           - Anki Decks: "setup/AnkiDecks.md"
       - Animecards:
-          Connect Yomitan: "setup/YomitanAnki.md"
+          - Connect Yomitan: "setup/YomitanAnki.md"
 
-# extra_css:
-#   - docs/stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - tables

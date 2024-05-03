@@ -28,12 +28,12 @@ These resources encompass:
 
 First of all, we need to set up Anki and Yomitan. <br>
 Simply follow the steps below: <br>
-#### Basic Setup
+### Basic Setup
 1. [Are you using a Japanese font?](setup/JapaneseFont.md)
 2. [Download Yomitan](setup/Yomitan.md)
 3. [Download and set up Anki](setup/AnkiSetup.md)
 4. [Get decks for basic vocabulary](setup/AnkiDecks.md)
 5. [Set up Animecards for Yomitan and Anki](setup/YomitanAnki.md)
 
-#### Immersion Setups
+### Immersion Setups
 Work in progress...

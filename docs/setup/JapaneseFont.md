@@ -37,7 +37,7 @@ Source: [The Moe Way](https://learnjapanese.moe/font/)
 
 # Apply font for Anki
 
-#### Reviewing
+### Reviewing
 Check if `直` gets displayed correctly on the cards while reviewing:
 - Click on browse
 - Select / create a card with `直`
@@ -46,7 +46,7 @@ If it does not display correctly, the font is installed incorrectly or not detec
 Please ask for help or see: [The Moe Way Font Anki](https://learnjapanese.moe/font/#anki). <br>
 Maybe you need to force it.
 
-#### Edit fields 
+### Edit fields 
 Check if `直` gets displayed correctly in the edit fields in the note type.
 If not, you can change the font for every edit field. <br>
 This is not really necessary but still good to see the kanji displayed correctly in the edit fields. 
@@ -57,7 +57,7 @@ This is not really necessary but still good to see the kanji displayed correctly
 
 # Don't like Meiryo UI?
 
-#### Noto Sans JP
+### Noto Sans JP
 
 If you like, you can use the [Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP) font.
 

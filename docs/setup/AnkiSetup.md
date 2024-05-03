@@ -1,7 +1,7 @@
 I used the setup guide from [xelieu - the lazy guide](https://xelieu.github.io/jp-lazy-guide/setupAnki/)  
 And the guide from [donkuri - Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/setup/#installing-anki).
 
-#### Download Anki
+### Download Anki
 
 Download [Anki 32.12.1 Qt6](https://apps.ankiweb.net/).
 
