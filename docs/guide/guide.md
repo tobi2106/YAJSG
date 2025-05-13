@@ -17,13 +17,45 @@ Als erstes Anki Denk:
     Ich habe das Kaishi Deck für die JP Mining Note konvertiert und personalisiert. Sieht viel besser aus und bietet mehr.
     Einfach anschreiben, dann verlink ich das über DropBox 
 
+Ein Anki Setup findet sich im [TheMoeWay Guide](https://learnjapanese.moe/guide/#quick-anki-setup), als auch von mir geschrieben unter [Anki Setup](../setup/AnkiSetup.md)
+
 ### Anki Template
 
 Für Anki Note Types (Templates) würde ich ganz ganz stark das [JP Mining Note](https://arbyste.github.io/jp-mining-note/) empfehlen. (Ich nutze die Pre-Released Version und hab die selbst gebaut ([Dev Branche](https://github.com/arbyste/jp-mining-note/tree/dev) auf GitHub))
 
+Was das Template bietet:
+
+- Bild kann mit einem Klick vergrößert werden
+- Direkter Pitch Accent Support über Farben und Graph
+- Furigana (kleine Hiragana über den Kanji) werden über den Satz bei einem Mouse-Hover angezeigt
+- Extra Definitionen und Erklärungen können hinzugefügt werden
+- Es wird die Word Frequency oben Rechts angezeigt
+- Kennzeichnung, wenn das zu lernende Kanji eine gleiche Aussprache oder Schreibung verwendet, wie ein Kanji im Deck
+- Direkte Verlinkung zum Wörterbuch 
+- Erkennung und Tagging von doppelten Wörtern
+- Wörter mit ähnlichen Kanji können mit einem Mouse-Hover im Deck nachgeschlagen werden.  
+ 
+So sieht gerade meine Anki Karten aus:
+
+![Beispiel für eine Anki Karte](../assets/images/anki_example.png)
+
+Im direkten Vergleich Kaishi normal und als Mining Note Type:
+
+![Beispiel für eine Anki Karte](../assets/images/kaishi_standard.png)
+
+![Beispiel für eine Anki Karte](../assets/images/kaishi_mining_note.png)
+
 # Input ist das Ziel
 
 ### So schnell wie möglich mit Input zu beginnen. 
+
+Damit das Lernen wirklich los gehen kann, **müssen** die Hiragana und Katakana gelernt werden. 
+Gerne kann das Lesen mit den ersten Lektion Texten aus dem Buch Japanisch Schritt für Schritt getestet werden. 
+Ich habe die ersten Lektionen abgetippt und mit Furigana versehen - siehe [Lektion Eins](../lesson_texts/第1課　「食べますか」.md).
+
+!!! Tip
+    Ich hab die Hiragana und Katakana schon mehrfach erfolgreich in einem Tag beigebracht. 
+    Bei Interesse gerne melden, habe sehr viel Spaß dran das lesen Beizubringen
 
 Wir wollen so schnell wie möglich Richtung Immersion-Based learning zu kommen.
 
@@ -70,6 +102,16 @@ Weitere YouTube Kanäle zum Empfehlen. Ein paar Beispiel Videos:
 
 # Weitere Ressourcen
 
+??? Note
+    Das ganze Mining Setup hab ich bei mir mehrfach aufgesetzt und funktioniert ausgezeichnet mit einem Knopfdruck. Online als auch offline. 
+    Aber das dauert seine Zeit. Manches geht sehr schnell, anderes dauert etwas länger. 
+
+    Falls die Zeit ein Problem ist, gibt es auch [Migaku](https://migaku.com/pricing) das fast alles bietet was ich hier erklärt und beschrieben habe. Aber für eine monatliches Abo. ... Anscheinend jetzt auch nur noch Jährlich? Was ein Müll! 
+
+    Dafür funktioniert Migaku sehr gut! Ich habe es selbst getestet und mit dem Addon rum gespielt. Ja, bei Migaku handelt es sich um ein Chrome Browser Addon / Anki Extension. Migaku verbindet sich mit Anki, man aktualisiert seine Wortdatenbank und alle Wörter werden nach Wissensstand angezeigt. 
+    Nur personalisieren kann man Migaku ehr weniger. Wenn man seine eigene Note Types verwenden will, muss man ebenfalls stark mit Migaku kämpfen >:(
+
+
 Einige Setups sind auch umständlicher als andere
 Ich hab alles am laufen und kann jederzeit helfen! 
 
@@ -81,6 +123,10 @@ Was es alles gibt (Alles kann automatisch zur Anki Kartenerstellung hinzugefügt
 - Mehrere Definitionen aus verschieden Wörterbüchern  Grammatikbüchern
 - [Texthooker](https://kamwithk.github.ioexSTATictracker.html) WebSocket um aus Spielen  Webseiten direkt im Browser anzeigen zu lassen, um damit Karten zu erstellen 
 
+
+Hier aber noch eine Liste der Anki Addons die Ich persönlich verwende:
+
+![Beispiel für eine Anki Karte](../assets/images/anki_addons.png)
 
 # Guids
 
