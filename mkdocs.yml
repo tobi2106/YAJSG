@@ -82,6 +82,8 @@ nav:
           - Anki Decks: "setup/AnkiDecks.md"
       - Animecards:
           - Connect Yomitan: "setup/YomitanAnki.md"
+  - Guide der Guides:
+    - Guide: "guide/guide.md"
 
 extra_css:
   - stylesheets/extra.css
