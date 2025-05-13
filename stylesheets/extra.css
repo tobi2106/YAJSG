@@ -1,31 +1,42 @@
-div.lection {
+div.old_lection {
     font-family: "メイリオ", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", sans-serif;
     letter-spacing: 1px;
     line-height: 2.3;
 }
 
-.lection div.medium {
+.md-typeset .tabbed-labels > label {
+    font-size: 0.8rem;
+}
+
+.md-typeset {
+    letter-spacing: 0.0625rem;
+    color-adjust: exact;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.old_lection div.medium {
     font-size: 17px;
 }
 
-.lection div.medium span.ruby span.rt {
+.old_lection div.medium span.ruby span.rt {
     font-size: 11px;
 }
 
-.lection span.ruby {
+.old_lection span.ruby {
     margin-bottom: 0.55em;
     display: inline-table;
     position: relative;
     vertical-align: bottom;
 }
 
-.lection span.ruby span.rb {
+.old_lection span.ruby span.rb {
     display: table-row;
     position: relative;
     line-height: 1.2;
 }
 
-.lection span.ruby span.rt {
+.old_lection span.ruby span.rt {
     display: table-header-group;
     line-height: 1.8;
     color: #999;
@@ -36,4 +47,7 @@ div.lection {
 
 rt {
     color: #999;
+    font-size: 0.525em;
+    letter-spacing: -0.002rem;
+    margin-top: 0.2rem;
 }
