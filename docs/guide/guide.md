@@ -1,8 +1,14 @@
+---
+title: Guide der Guides
+hide:
+- navigation
+---
+
 # Essenzial
 
 Es geht darum folgendes aufzusetzen:
 
-[Anki](https://apps.ankiweb.net/) (SRS als Karteikartensystem und seit zwei Jahren mit dem [FSRS Algo](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)
+[Anki](https://apps.ankiweb.net/) (SRS als Karteikartensystem und seit zwei Jahren mit dem [FSRS Algo](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html))
 
 [Yomitan](https://yomitan.wiki/) als Wörterbuch im Browser aufzusetzen (Früher Yomichan)
 
